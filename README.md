@@ -191,7 +191,7 @@ This project fills a gap identified in existing research:
 **Jeet Nakrani**  
 MTech Data Science & Business Analytics — NMIMS MPSTME (D010)  
 Project Trainee @ LTIMindtree (Aug – Oct 2025)  
-[LinkedIn](https://linkedin.com/in/your-profile) · [Portfolio](https://your-portfolio.com)
+[LinkedIn](https://linkedin.com/in/your-profile)
 
 ---
 
